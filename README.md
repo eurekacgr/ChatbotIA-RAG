@@ -254,3 +254,9 @@ Desarrollado como sistema de apoyo a la División Jurídica de la CGR para anál
 
 📧 **Contacto**: Para soporte técnico o mejoras, contactar al equipo de desarrollo.
 - Desarrollado como sistema de apoyo a la División Jurídica para análisis de resoluciones en lenguaje natural, utilizando inteligencia artificial generativa.
+
+## Versión Local:
+- Existe una versión principal que fue creada y probada de forma local:
+```
+https://github.com/Brandruiz7/Innovaton_DJ
+```
